@@ -28,8 +28,4 @@ if ($stmt->num_rows>0)
 </table>
 <?php
 }
-else
-{
-echo "No hay ningún departamento con ese nombre";
-}
 ?>
