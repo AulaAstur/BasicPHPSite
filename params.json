@@ -1,6 +1,6 @@
 {
-  "name": "PHP + SQL",
-  "tagline": "Interfaz web para operar en bases de datos",
-  "body": "### PHP + SQL\r\nUna demostración básica de como configurar distintos formularios utilizando PHP para operar sobre una base de datos.",
+  "name": "BasicPHPSite",
+  "tagline": "Demostración sobre el uso de PHP para operar sobre bases de datos",
+  "body": "# PHP + SQL\r\nUna demostración básica de como configura una interfaz web (PHP+HTML) para operar sobre una base de datos.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
